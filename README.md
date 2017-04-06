@@ -1,9 +1,9 @@
-## RocketMQ [![Build Status](https://travis-ci.org/apache/incubator-rocketmq.svg?branch=master)](https://travis-ci.org/apache/incubator-rocketmq) [![Coverage Status](https://coveralls.io/repos/github/apache/incubator-rocketmq/badge.svg?branch=master)](https://coveralls.io/github/apache/incubator-rocketmq?branch=master)
+## Apache RocketMQ [![Build Status](https://travis-ci.org/apache/incubator-rocketmq.svg?branch=master)](https://travis-ci.org/apache/incubator-rocketmq) [![Coverage Status](https://coveralls.io/repos/github/apache/incubator-rocketmq/badge.svg?branch=master)](https://coveralls.io/github/apache/incubator-rocketmq?branch=master)
 [![Maven Central](https://img.shields.io/badge/maven--center-stable--version-green.svg)](http://search.maven.org/#search%7Cga%7C1%7Corg.apache.rocketmq)
 [![GitHub release](https://img.shields.io/badge/release-download-orange.svg)](https://github.org/apache/rocketmqreleases)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-**[RocketMQ](https://rocketmq.incubator.apache.org) is a low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.**
+**[Apache RocketMQ](https://rocketmq.incubator.apache.org) is a low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.**
 
 It offers a variety of features as follows:
 
@@ -14,14 +14,12 @@ It offers a variety of features as follows:
 * Over a variety of messaging protocols.such as JMS,MQTT etc.
 * Distributed high available deploy architecture, meets at least once message delivery semantics
 * Docker images for isolated testing and cloud Isolated clusters
-* Feature-rich administrative dashboard for configuration,metrics and monitoring [![Cloud Charge](https://img.shields.io/badge/cloud-charge-red.svg)](https://www.aliyun.com/product/ons/?spm=5176.7960203.237031.135.67OdNO)
-* Message full-link tracking [![Cloud Charge] (https://img.shields.io/badge/cloud-charge-red.svg)](https://www.aliyun.com/product/ons/?spm=5176.7960203.237031.135.67OdNO)
-* Producer transaction message,making producer and local database transaction in one atomic operation [![Cloud Charge](https://img.shields.io/badge/cloud-charge-red.svg)](https://www.aliyun.com/product/ons/?spm=5176.7960203.237031.135.67OdNO)
-* Message Schedule delivery,similar JMS2 spec's delivery delay [![Cloud Charge] (https://img.shields.io/badge/cloud-charge-red.svg)](https://www.aliyun.com/product/ons/?spm=5176.7960203.237031.135.67OdNO)
+* Feature-rich administrative dashboard for configuration,metrics and monitoring
 
 ----------
 
 ## Learn it & Contact us
+* Mailing Lists: <http://rocketmq.incubator.apache.org/about/contact/>
 * Home: <https://rocketmq.incubator.apache.org>
 * Wiki: <https://cwiki.apache.org/confluence/display/ROCKETMQ/Apache+RocketMQ+Home>
 * Issues: <https://issues.apache.org/jira/browse/RocketMQ>
@@ -30,9 +28,9 @@ It offers a variety of features as follows:
 
 ----------
 
-## RocketMQ Community
-* [`Docker images`](https://registry.hub.docker.com/u/vongosling@apache.org/rocketmq/)
-* [RocketMQ Community Projects](https://github.com/rocketmq)
+## Apache RocketMQ Community
+* [RocketMQ Community Incubator Projects](https://github.com/rocketmq)
+* [RocketMQ Community Projects](https://github.com/apache/incubator-rocketmq-externals)
 
 ----------
 
